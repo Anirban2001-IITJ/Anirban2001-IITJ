@@ -2,7 +2,7 @@
 - 👀 I’m  currently interested in learning Data Structures and algorithms, Machine learning, Application Development and Data analysis tools like [Tableau, R, SQL, Microsoft Excel]
 - 🌱 I’m currently pursuing my Masters from 𝗜𝗜𝗧 𝗝𝗼𝗱𝗵𝗽𝘂𝗿 in Digital Humanities and Computing
 - 🖥️ I’m looking to collaborate on various projects related to artificial intelligence and machine learning to represent my work on several platforms.
-- 📫 How to reach me :- email address : anirbandazz@gmail.com
+- 📫 How to reach me :- Email address : anirbandazz@gmail.com
 - linkedIn Id: www.linkedin.com/in/anirban-paul-19079927a
 
 
