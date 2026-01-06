@@ -1,4 +1,4 @@
-Hi "👋", I am Anirban Paul 
+# Hi "👋", I am Anirban Paul 
 🧠 I’m currently interested in learning Data Structures and algorithms, Machine learning, Application Development and Data analysis tools like [Tableau, R, SQL, Microsoft Excel]<br> 🎓 I’m currently pursuing my Masters from 𝗜𝗜𝗧 𝗝𝗼𝗱𝗵𝗽𝘂𝗿 in Digital Humanities and Computing.<br> 🤝 I’m looking to collaborate on various projects related to artificial intelligence and machine learning to represent my work on several platforms.<br> 📧 How to reach me :- Email address : anirbanpaul7800@gmail.com<br> ❄ linkedIn Id: www.linkedin.com/in/anirban-paul-19079927a
 
 
